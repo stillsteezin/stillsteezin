@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Anastasia 
 - 👀 I’m interested in cybersecurity, long distancing cycling, and Russian lit!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me --> discord @still_steezin
 
